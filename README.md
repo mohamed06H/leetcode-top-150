@@ -37,7 +37,7 @@ I encourage collaboration and invite others to join in this endeavor. Here's how
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/muhit-khan/LeetCode-Top-Interview-150.git
+https://github.com/mohamed06H/leetcode-top-150.git
 ```
 
 #### Create a Branch
