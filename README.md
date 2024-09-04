@@ -114,7 +114,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/remove-element/description/" target="_blank">Remove Element</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
