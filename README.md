@@ -128,7 +128,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/" target="_blank">Remove Duplicates from Sorted Array II</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
