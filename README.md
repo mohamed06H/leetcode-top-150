@@ -135,7 +135,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/majority-element/" target="_blank">Majority Element</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
