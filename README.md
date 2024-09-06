@@ -84,7 +84,7 @@ Happy Coding! 🚀
 <!-- UPDATE COUNT should be done through CI/CD env var:1-->
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-4%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-5%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
