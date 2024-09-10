@@ -233,7 +233,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Length of Last Word</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
