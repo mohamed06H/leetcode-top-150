@@ -240,7 +240,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Longest Common Prefix</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
