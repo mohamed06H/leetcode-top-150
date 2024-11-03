@@ -261,7 +261,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target=="_blank">Find the Index of the First Occurrence in a String</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
